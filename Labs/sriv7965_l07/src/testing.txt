@@ -1,0 +1,90 @@
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sarani Srivijayasri
+ID:      169087965
+Email:   sriv7965@mylaurier.ca
+Version: 2024-11-01
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number:30
+Too high, try again.
+Enter a number:20
+Too high, try again.
+Enter a number:10
+Too high, try again.
+Enter a number:2
+Congratulations - good guess!
+You made 4 guesses.
+
+Enter a number:20
+Too high, try again.
+Enter a number:10
+Too low, try again.
+Enter a number:15
+Too low, try again.
+Enter a number:17
+Too high, try again.
+Enter a number:16
+Congratulations - good guess!
+You made 5 guesses.
+
+Enter a number:14
+Too high, try again.
+Enter a number:12
+Too high, try again.
+Enter a number:10
+Too high, try again.
+Enter a number:5
+Too low, try again.
+Enter a number:7
+Too low, try again.
+Enter a number:6
+Too low, try again.
+Enter a number:8
+Too low, try again.
+Enter a number:9
+Congratulations - good guess!
+You made 8 guesses
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+4
+4
+8
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+30
+30
+55
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter an expense (0 to quit): $100
+Enter another expense (0 to quit): $34
+Enter another expense (0 to quit): $0
+(134.0, 16.0, 'Surplus')
+
+Enter an expense (0 to quit): $20
+Enter another expense (0 to quit): $50
+Enter another expense (0 to quit): $23
+Enter another expense (0 to quit): $150
+Enter another expense (0 to quit): $0
+(243.0, -123.0, 'Deficit')
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter Employee ID: 234
+Hourly wage rate: 23
+Hours worked: 123
+Net payment for employee 234: $3646.35
+
+Enter Employee ID: 234
+Hourly wage rate: 23
+Hours worked: 45
+Net payment for employee 234: $1052.90
+-------------------------------------------------------

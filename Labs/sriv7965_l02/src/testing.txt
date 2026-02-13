@@ -1,0 +1,105 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sarani Srivijayasri
+ID:      169087965
+Email:   sriv7965@mylaurier.ca
+Version: 2024-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Temperature (F):25
+Temperature (C): -3.8888888888888893
+
+Temperature (F):450
+Temperature (C): 232.22222222222223
+
+Temperature (F):32
+Temperature (C): 0
+
+Temperature (F):56
+Temperature (C): 13.333333333333334
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Hourly rate of pay: $7.00
+Hours worked in the week: 10
+
+Total pay for the week: $ 70.0
+
+Hourly rate of pay: $14.50
+Hours worked in the week: 14
+
+Total pay for the week: $ 203.0
+
+Hourly rate of pay: $15.60
+Hours worked in the week: 0
+
+Total pay for the week: $ 0.0
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Mortgage principle ($): 50
+Number of years: 7
+Yearly interest rate (%): 9
+
+The monthly payments are: $ 0.8044539130019228
+
+Mortgage principle ($): 1505000
+Number of years: 10
+Yearly interest rate (%): 7
+
+The monthly payments are: $ 17474.326122402872
+
+Mortgage principle ($): 345000
+Number of years: 4
+Yearly interest rate (%): 23
+
+The monthly payments are: $ 11057.757682659147
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Number of seconds: 145637
+
+Days: 1 Hours: 16 Minutes: 27 Seconds: 17
+
+Number of seconds: 10050000300
+
+Days: 116319 Hours: 10 Minutes: 45 Seconds: 0
+
+Number of seconds: 36001
+
+Days: 0 Hours: 10 Minutes: 0 Seconds: 1
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter servings of Mac & Cheese: 6
+
+6 servings of Mac & Cheese requires:
+milk (cups): 4.0
+butter (tablespoons): 8.0
+flour (cups): 0.5
+salt (teaspoons): 2.0
+
+Enter servings of Mac & Cheese: 4
+
+4 servings of Mac & Cheese requires:
+milk (cups): 2.6666666666666665
+butter (tablespoons): 5.333333333333333
+flour (cups): 0.3333333333333333
+salt (teaspoons): 1.3333333333333333
+
+Enter servings of Mac & Cheese: 10
+
+10 servings of Mac & Cheese requires:
+milk (cups): 6.666666666666667
+butter (tablespoons): 13.333333333333334
+flour (cups): 0.8333333333333334
+salt (teaspoons): 3.3333333333333335
+
+-------------------------------------------------------

@@ -1,0 +1,86 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sarani Srivijayasri
+ID:      169087965
+Email:   sriv7965@mylaurier.ca
+Version: 2024-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+'I'm a Little Astronaut' by Jean Warren
+
+I'm a little astronaut
+    Flying to the moon.
+        My rocket is ready,
+        We blast off soon.
+I climb aboard
+    And close the hatch.
+        5-4-3-2-1, off we blast!
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter number: 300
+Enter percent: 30
+
+30.0 percent discount on 300.0 is 90.0
+
+Enter number: 20
+Enter percent: 3.4
+
+3.4 percent discount on 20.0 is 0.7
+
+Enter number: 45
+Enter percent: 30
+
+30.0 percent discount on 45.0 is 13.5
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter cost of breakfast: $12
+Enter cost of lunch: $3.5
+Enter cost of supper: $55
+
+Meal           Cost   
+Breakfast   $   12.00
+Lunch       $    3.50
+Supper      $   55.00
+Total       $   70.50
+
+Enter cost of breakfast: $34
+Enter cost of lunch: $44
+Enter cost of supper: $5.5
+
+Meal           Cost   
+Breakfast   $   34.00
+Lunch       $   44.00
+Supper      $    5.50
+Total       $   83.50
+
+Enter cost of breakfast: $50
+Enter cost of lunch: $30
+Enter cost of supper: $0.5
+
+Meal           Cost   
+Breakfast   $   50.00
+Lunch       $   30.00
+Supper      $    0.50
+Total       $   80.50
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+left----------------
+-------middle-------
+---------------right
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+654321
+654321.00
+654.32
+Hello World
+-------------------------------------------------------
